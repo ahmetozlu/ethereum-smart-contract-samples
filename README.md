@@ -1,6 +1,11 @@
 # Ethereum Smart Contract Samples
 This repo focuses on providing smart contract examples to understand basics and some details of developing Ethereum smart contracts!
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22610163/221393089-1ab05d31-1905-4660-b8af-504fa672b5ae.jpg" {width=35px height=350px}>
+</p>
+
+
 ### Tutorial List
 
 1.) [Ether-Wallet-Smart-Contract-Tutorial](https://github.com/ahmetozlu/ethereum-smart-contract-samples/tree/main/Ether-Wallet-Smart-Contract-Tutorial): Simple exercise for some of the core concepts about sending money receiving money and how that works with contracts.
@@ -25,3 +30,4 @@ Ahmet Özlü
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
+
