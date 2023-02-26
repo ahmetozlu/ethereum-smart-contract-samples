@@ -23,3 +23,23 @@ In this simple tutorial, we'll build a simple Ether wallet smart contract in ord
 
 
 if we look back at our account and we had selected the first account that means this is our owner account now we have slightly less than 100 ether so what happened here why did our balance go down well anything you do on the ethereum blockchain costs gas which means there's there's a cost to executing any kind of code on the blockchain
+
+
+contract is working as expected um it's a simple wallet not much to it but i think it was just important to go through this simple exercise to sort of solidify some of the core concepts around sending money receiving money and how that works with contracts.
+
+
+## Citation
+If you use this code for your publications, please cite it as:
+
+    @ONLINE{vdtcbs,
+        author = "Ahmet Özlü",
+        title  = "Ethereum Smart Contract Samples",
+        year   = "2023",
+        url    = "https://github.com/ahmetozlu/ethereum-smart-contract-samples/tree/main/Ether-Wallet-Smart-Contract-Tutorial"
+    }
+
+## Author
+Ahmet Özlü
+
+## License
+This system is available under the MIT license. See the LICENSE file for more info.
