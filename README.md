@@ -3,7 +3,7 @@ This repo focuses on providing smart contract examples to understand basics and 
 
 ### Tutorial List
 
-1.) **[Ether-Wallet-Smart-Contract-Tutorial]**(https://github.com/ahmetozlu/ethereum-smart-contract-samples/tree/main/Ether-Wallet-Smart-Contract-Tutorial): Simple exercise for some of the core concepts about sending money receiving money and how that works with contracts.
+1.) [Ether-Wallet-Smart-Contract-Tutorial](https://github.com/ahmetozlu/ethereum-smart-contract-samples/tree/main/Ether-Wallet-Smart-Contract-Tutorial): Simple exercise for some of the core concepts about sending money receiving money and how that works with contracts.
 
 ### Basic Terminology
 **What Is Gas (Ethereum)?**
