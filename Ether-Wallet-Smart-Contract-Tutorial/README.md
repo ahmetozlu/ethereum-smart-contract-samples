@@ -74,7 +74,7 @@ Allow our smart contract to receive ether or receive funds coming into it so it'
 
 - **Explanation of line#17:** to query the balance of the smart contract at any given time, external means but basically external functions are part of the contract interface and that means that they can be called from other outside contracts and also via transactions for example by other third-party applications,,, view means that this function is read-only essentially it means that it is allowed to read information from the blockchain but not in any way change it or modify,,, uint unsigned integer
 
-**Explanation of line#18:** so address this refers to the address of the current smart contract in other words the address of the ether wallet smart contract,,, dot balance the property dot balance simply gives us the balance or the amount of ether that this contract holds
+- **Explanation of line#18:** so address this refers to the address of the current smart contract in other words the address of the ether wallet smart contract,,, dot balance the property dot balance simply gives us the balance or the amount of ether that this contract holds
 
 if we look back at our account and we had selected the first account that means this is our owner account now we have slightly less than 100 ether so what happened here why did our balance go down well anything you do on the ethereum blockchain costs gas which means there's there's a cost to executing any kind of code on the blockchain
 
@@ -97,3 +97,4 @@ Ahmet Özlü
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
+
